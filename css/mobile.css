@@ -1,0 +1,21 @@
+@media screen and(max-width: 768px){
+    .about-section img{
+        width: 100px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .contact-section button{
+        width: 100%;
+    }
+    form{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 320px){
+    .welcome{
+        font-size: 30px;
+        padding: 2rem 1rem;
+    }
+    
+}
